@@ -1,3 +1,14 @@
+.btn, .btn:link, .btn:visited {
+  text-decoration: none;
+  padding: 1.5rem 4rem;
+  border-radius: 10rem;
+  transition: all .2s;
+  position: relative;
+  font-size: 1.6rem;
+  border: none;
+  cursor: pointer;
+  background-color: white; }
+
 body {
   background-color: red;
   color: white; }
