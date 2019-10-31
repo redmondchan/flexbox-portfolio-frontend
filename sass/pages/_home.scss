@@ -2,3 +2,22 @@ body {
   background-color: red;
   color: white;
 }
+
+.section-about {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+
+  &__header {
+
+  }
+
+  &__personal {
+
+  }
+
+  &__skills {
+
+  }
+
+}
