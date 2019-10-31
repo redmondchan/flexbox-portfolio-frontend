@@ -5,7 +5,8 @@
 
 .about__info {
   display: flex;
-  flex-direction: row; }
+  flex-direction: row;
+  margin: 20px; }
 
 .btn, .btn:link, .btn:visited {
   text-decoration: none;
@@ -20,7 +21,8 @@
 
 body {
   background-color: red;
-  color: white; }
+  color: white;
+  margin: 0; }
 
 .section-about {
   display: flex;
