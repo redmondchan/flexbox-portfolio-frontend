@@ -6,7 +6,7 @@
 .about__info {
   display: flex;
   flex-direction: row;
-  margin: 20px; }
+  margin: 0 15%; }
 
 .btn, .btn:link, .btn:visited {
   text-decoration: none;
